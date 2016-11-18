@@ -12,5 +12,9 @@
   "bugs": "https://github.com/bryanjhv/express-ejs-extend/issues",
   "license": "MIT",
   "author": "Bryan Horna <bryanjhv@gmail.com> (https://bryanjhv.github.io)",
-  "repository": "bryanjhv/express-ejs-extend"
+  "main": "index.js",
+  "repository": "bryanjhv/express-ejs-extend",
+  "dependencies": {
+    "ejs": ">=2.4.1"
+  }
 }
