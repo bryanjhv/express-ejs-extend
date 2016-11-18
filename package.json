@@ -1,0 +1,16 @@
+{
+  "name": "express-ejs-extend",
+  "version": "0.0.1",
+  "description": "Layouts support for EJS templates in Express 3+.",
+  "keywords": [
+    "express",
+    "ejs",
+    "template",
+    "layout"
+  ],
+  "homepage": "https://github.com/bryanjhv/express-ejs-extend",
+  "bugs": "https://github.com/bryanjhv/express-ejs-extend/issues",
+  "license": "MIT",
+  "author": "Bryan Horna <bryanjhv@gmail.com> (https://bryanjhv.github.io)",
+  "repository": "bryanjhv/express-ejs-extend"
+}
