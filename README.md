@@ -1,4 +1,4 @@
-# Express EJS Extend
+# Express EJS Extend &nbsp;&nbsp;&nbsp; [![Donate][paybtn]][paylnk]
 
 Layouts support for [EJS][ejs] templates in [Express 3+][express].
 
@@ -77,3 +77,6 @@ This project is released under the [MIT license](LICENSE.txt).
 
 [ejs]: http://ejs.co
 [express]: http://expressjs.com
+
+[paybtn]: https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif
+[paylnk]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DVB7SSMVSHGTN
